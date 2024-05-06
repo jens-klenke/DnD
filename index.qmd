@@ -1,5 +1,5 @@
 ---
-title: "Dungens and Dragons"
+title: "Dungeons & Dragons"
 subtitle: " DnD"
 ---
 
