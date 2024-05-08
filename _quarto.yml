@@ -6,8 +6,13 @@ website:
   title: "DnD"
   navbar:
     left:
-      - href: characters.qmd
-        text: "Characters"
+      - text: 'Characters'
+        menu:
+          - href: character_sheets/andrea.qmd
+          - href: character_sheets/jens.qmd
+          - href: character_sheets/klaus.qmd
+          - href: character_sheets/sian.qmd
+          - href: character_sheets/szaza.qmd
     right:
       - icon: github
         href: https://github.com/jens-klenke
