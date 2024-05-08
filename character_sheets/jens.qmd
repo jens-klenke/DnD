@@ -6,12 +6,16 @@ title: "Jens"
 
 ## Main Info
 
-- Race
-  - [Wood Elf](http://dnd5e.wikidot.com/lineage:elf#toc3)
-- Class
-  - [Cleric](http://dnd5e.wikidot.com/cleric)
+- Race: [Wood Elf](http://dnd5e.wikidot.com/lineage:elf#toc3)
+- Class: [Cleric](http://dnd5e.wikidot.com/cleric)
+- Domain: [Tempest](http://dnd5e.wikidot.com/cleric:tempest)
+  - destructive, wild (not like other wood elfs)
+  - Goddess: [Aerdrie Faenya](https://www.worldanvil.com/w/tales-of-faerun-autumnfyr/a/aerdrie-faenya-article)
 
+## Background Story
 
-## Race 
-
-## Background
+- Not faithful
+- Spiritual
+  - Yearning for the Sea
+- Why am I in the village (forgot the name)? 
+  - Klaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world
