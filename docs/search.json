@@ -81,7 +81,7 @@
     "href": "character_sheets/szaza.html",
     "title": "Szaza",
     "section": "",
-    "text": "Cheats\n\nAndrea\nKlaus\nJens"
+    "text": "Race:\nClass:\nDomain:"
   },
   {
     "objectID": "character_sheets/sian.html",
@@ -102,7 +102,7 @@
     "href": "character_sheets/andrea.html",
     "title": "Andrea",
     "section": "",
-    "text": "Name\n\nKlaus\nJens"
+    "text": "Race:\nClass:\nDomain:"
   },
   {
     "objectID": "links.html",
@@ -123,7 +123,7 @@
     "href": "character_sheets/jens.html",
     "title": "Jens",
     "section": "",
-    "text": "Race: Wood Elf\nClass: Cleric\nDomain: Tempest\n\ndestructive, wild (not like other wood elfs)\nGoddess: Aerdrie Faenya\n\n\n\n\n\n\nNot faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nKlaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
+    "text": "Race: Wood Elf\nClass: Cleric\nDomain: Tempest\n\ndestructive, wild (not like other wood elfs)\nGoddess: Aerdrie Faenya\n\n\n\n\n\n\nNot faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
   },
   {
     "objectID": "character_sheets/jens.html#main-info",
@@ -137,6 +137,48 @@
     "href": "character_sheets/jens.html#background-story",
     "title": "Jens",
     "section": "",
-    "text": "Not faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nKlaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
+    "text": "Not faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
+  },
+  {
+    "objectID": "character_sheets/szaza.html#main-info",
+    "href": "character_sheets/szaza.html#main-info",
+    "title": "Szaza",
+    "section": "",
+    "text": "Race:\nClass:\nDomain:"
+  },
+  {
+    "objectID": "character_sheets/szaza.html#background-story",
+    "href": "character_sheets/szaza.html#background-story",
+    "title": "Szaza",
+    "section": "Background Story",
+    "text": "Background Story"
+  },
+  {
+    "objectID": "character_sheets/andrea.html#main-info",
+    "href": "character_sheets/andrea.html#main-info",
+    "title": "Andrea",
+    "section": "",
+    "text": "Race:\nClass:\nDomain:"
+  },
+  {
+    "objectID": "character_sheets/andrea.html#background-story",
+    "href": "character_sheets/andrea.html#background-story",
+    "title": "Andrea",
+    "section": "Background Story",
+    "text": "Background Story"
+  },
+  {
+    "objectID": "character_sheets/claus.html",
+    "href": "character_sheets/claus.html",
+    "title": "Claus",
+    "section": "",
+    "text": "Race:\nClass:\nDomain:"
+  },
+  {
+    "objectID": "character_sheets/claus.html#main-info",
+    "href": "character_sheets/claus.html#main-info",
+    "title": "Claus",
+    "section": "",
+    "text": "Race:\nClass:\nDomain:"
   }
 ]

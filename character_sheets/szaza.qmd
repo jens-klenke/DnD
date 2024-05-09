@@ -2,8 +2,12 @@
 title: "Szaza"
 ---
 
-# Cheats
+# Character Name
 
-- Andrea
-- Klaus 
-- Jens 
+## Main Info
+
+- Race: 
+- Class: 
+- Domain: 
+
+## Background Story
