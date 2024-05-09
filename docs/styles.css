@@ -15,6 +15,20 @@
 }
 
 .img_parent {
-  width: 7.5vw;
+  width: 10vw;
   float: right;
 }
+
+.img_container {
+  display: flex;
+  width: 10vw;
+  flex-wrap: wrap;
+}
+
+.img_rounded {
+  width: 35%;
+  height: 35%;
+  padding: 20px;
+  border-radius: 50%
+}
+

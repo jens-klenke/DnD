@@ -7,7 +7,12 @@ subtitle: " DnD"
 
 ### Characters
 
-#### Avatar FLEX Boxes
+<div class="container">
+  <img src="assets/szaza.png" class="img_rounded">
+  <img src="assets/szaza.png" class="img_rounded">
+  <img src="assets/szaza.png" class="img_rounded">
+  <img src="assets/szaza.png" class="img_rounded">
+</div>
 
 ### Current Campagne
 
