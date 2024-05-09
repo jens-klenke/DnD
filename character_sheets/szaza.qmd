@@ -5,6 +5,7 @@ title: "Szaza"
 <div class="img_parent">
 <img src="../assets/szaza.png" alt="Szazas Avatar" style="width:100%;border-radius:50%">
 <br>
+<br>
 </div>
 
 # Character Name
