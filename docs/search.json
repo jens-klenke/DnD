@@ -81,7 +81,7 @@
     "href": "character_sheets/szaza.html",
     "title": "Szaza",
     "section": "",
-    "text": "Race:\nClass:\nDomain:"
+    "text": "Character Name"
   },
   {
     "objectID": "character_sheets/sian.html",
@@ -143,8 +143,8 @@
     "objectID": "character_sheets/szaza.html#main-info",
     "href": "character_sheets/szaza.html#main-info",
     "title": "Szaza",
-    "section": "",
-    "text": "Race:\nClass:\nDomain:"
+    "section": "Main Info",
+    "text": "Main Info\n\nRace:\nClass:\nDomain:"
   },
   {
     "objectID": "character_sheets/szaza.html#background-story",

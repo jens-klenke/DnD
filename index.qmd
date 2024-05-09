@@ -5,6 +5,11 @@ subtitle: " DnD"
 
 ## Homepage for a beautiful DnD Projekt
 
+### Characters
+<div>
+<img src="assets/szaza.png" alt="Szazas Avatar" style="float:right;width:128px;height:128px;border-radius:50%;">
+</div>
+
 ### Current Campagne
 
 

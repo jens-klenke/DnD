@@ -13,3 +13,8 @@
 #quarto-content {
   background-color: #1f1f1f;
 }
+
+.img_parent {
+  width: 7.5vw;
+  float: right;
+}
