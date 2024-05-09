@@ -21,7 +21,7 @@
 
 .img_container {
   display: flex;
-  width: 10vw;
+  width: 25vw;
   flex-wrap: wrap;
 }
 
