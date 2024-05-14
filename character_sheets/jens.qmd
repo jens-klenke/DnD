@@ -17,5 +17,28 @@ title: "Jens"
 - Not faithful
 - Spiritual
   - Yearning for the Sea
-- Why am I in the village (forgot the name)? 
+- Why am I in the village (forgot the name)?
+- Not faithful
+- Spiritual
+
+
+
+## Fähigkeiten
+
+- Weisheit 13 + 1 (Race)
+- Stärke 15
+- Konstitution 14
+- Geschicklichkeit 12 + 2 (Race)
+- Charistma 8
+- Intelligenz 10
+
+## Geübt in
+- Motive erkennen
+  - Gut in der Einschätzung von Menschen
+  - Woher? Warum?
+- Mecicine check 
+  - Sachen besser erkenn (Todesursache)
+  - Woher? Warum? (Mentor)
+
+
   - Claus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world

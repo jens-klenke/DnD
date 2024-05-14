@@ -123,7 +123,7 @@
     "href": "character_sheets/jens.html",
     "title": "Jens",
     "section": "",
-    "text": "Race: Wood Elf\nClass: Cleric\nDomain: Tempest\n\ndestructive, wild (not like other wood elfs)\nGoddess: Aerdrie Faenya\n\n\n\n\n\n\nNot faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
+    "text": "Race: Wood Elf\nClass: Cleric\nDomain: Tempest\n\ndestructive, wild (not like other wood elfs)\nGoddess: Aerdrie Faenya\n\n\n\n\n\n\nNot faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\nNot faithful\nSpiritual\n\n\n\n\n\nWeisheit 13 + 1 (Race)\nStärke 15\nKonstitution 14\nGeschicklichkeit 12 + 2 (Race)\nCharistma 8\nIntelligenz 10\n\n\n\n\n\nMotive erkennen\n\nGut in der Einschätzung von Menschen\nWoher? Warum?\n\nMecicine check\n\nSachen besser erkenn (Todesursache)\nWoher? Warum? (Mentor)\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
   },
   {
     "objectID": "character_sheets/jens.html#main-info",
@@ -137,7 +137,7 @@
     "href": "character_sheets/jens.html#background-story",
     "title": "Jens",
     "section": "",
-    "text": "Not faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\n\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
+    "text": "Not faithful\nSpiritual\n\nYearning for the Sea\n\nWhy am I in the village (forgot the name)?\nNot faithful\nSpiritual"
   },
   {
     "objectID": "character_sheets/szaza.html#main-info",
@@ -180,5 +180,19 @@
     "title": "Claus",
     "section": "",
     "text": "Race:\nClass:\nDomain:"
+  },
+  {
+    "objectID": "character_sheets/jens.html#fähigkeiten",
+    "href": "character_sheets/jens.html#fähigkeiten",
+    "title": "Jens",
+    "section": "",
+    "text": "Weisheit 13 + 1 (Race)\nStärke 15\nKonstitution 14\nGeschicklichkeit 12 + 2 (Race)\nCharistma 8\nIntelligenz 10"
+  },
+  {
+    "objectID": "character_sheets/jens.html#geübt-in",
+    "href": "character_sheets/jens.html#geübt-in",
+    "title": "Jens",
+    "section": "",
+    "text": "Motive erkennen\n\nGut in der Einschätzung von Menschen\nWoher? Warum?\n\nMecicine check\n\nSachen besser erkenn (Todesursache)\nWoher? Warum? (Mentor)\nClaus wanted to leave the Woods and I accompanied him to satisfy my desire for the sea and world"
   }
 ]
